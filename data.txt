@@ -1,0 +1,3 @@
+Name: spela
+Age: 22
+Favorite Color: black
